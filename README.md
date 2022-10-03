@@ -3,3 +3,4 @@ This project is a battery tester arduino project that is used to test the voltag
 # Video Demo of Project
 # Pictures of the Project
 ![image](https://user-images.githubusercontent.com/77080022/193652673-747210ee-a30f-4f8f-a09d-ee84872729d3.png)
+![image](https://user-images.githubusercontent.com/77080022/193653128-d30e8684-5886-4b3a-be98-00ebfea9a65d.png)
